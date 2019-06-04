@@ -1,0 +1,10 @@
+.wrapper {
+  width: 800px;
+  max-width: 90%;
+  margin: auto;
+}
+
+p {
+  font-style: italic;
+  color: 	#8B4513;
+}
